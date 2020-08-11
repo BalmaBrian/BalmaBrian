@@ -3,6 +3,7 @@
 ## I am a Student, Developer, Cookie Cutter Designer, and a CNC Operator
 
 - 🚀 I'm Currently working on a [rocket engine webserver](https://github.com/LiquidPropulsionGroup/EngineWebServer) for a college club called [Liquid Propulsion Group](https://github.com/LiquidPropulsionGroup).
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BalmaBrian&repo=EngineWebServer)](https://github.com/BalmaBrian/github-readme-stats)
 - 💾 I'm currently learning SCCM for my work at Sac State being an ECS Labbie.
 - 🐳 I'm looking to callaborate with other students on docker or kubernetes projects.
 - 🦍 2020 Goals: Contribute more with Github in general.
