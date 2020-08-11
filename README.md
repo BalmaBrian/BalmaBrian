@@ -30,4 +30,8 @@
 - [Test Post](https://dev.to/balmabrian/test-post-9c)
 <!-- BLOG-POST-LIST:END -->
 
+---
+
+<img align="left" alt=="BalmaBrian's Github Stats" src"https://github-readme-stats.vercel.app/api?username=BalmaBrian&show_icons=true&hide_border=true" />
+
 [linked in]: www.linkedin.com/in/brian-almaguer
