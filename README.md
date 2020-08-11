@@ -27,6 +27,7 @@
 
 ### 📖 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Test Post](https://dev.to/balmabrian/test-post-9c)
 <!-- BLOG-POST-LIST:END -->
 
 [linked in]: www.linkedin.com/in/brian-almaguer
