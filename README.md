@@ -32,6 +32,6 @@
 
 ---
 
-<img align="left" alt="BalmaBrian's Github Stats" src"https://github-readme-stats.vercel.app/api?username=BalmaBrian&show_icons=true&hide_border=true" />
+<img align="left" alt="BalmaBrian's Github Stats" src"https://github-readme-stats.codestackr.vercel.app/api?username=BalmaBrian&show_icons=true&hide_border=true" />
 
 [linked in]: www.linkedin.com/in/brian-almaguer
