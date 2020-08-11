@@ -8,6 +8,8 @@
 - 🦍 2020 Goals: Contribute more with Github in general.
 - ⚔️ Fun Fact: I spend my free time managing my family and friends bedrock and java minecraft servers.
 
+[![BalmaBrian's github stats](https://github-readme-stats.vercel.app/api?username=BalmaBrian)](https://github.com/BalmaBrian/github-readme-stats)
+
 ### Connect with me
 
 [<img align="left" alt="www.linkedin.com/in/brian-almaguer" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linked in]
@@ -29,9 +31,5 @@
 <!-- BLOG-POST-LIST:START -->
 - [Test Post](https://dev.to/balmabrian/test-post-9c)
 <!-- BLOG-POST-LIST:END -->
-
----
-
-[![BalmaBrian's github stats](https://github-readme-stats.vercel.app/api?username=BalmaBrian)](https://github.com/BalmaBrian/github-readme-stats)
 
 [linked in]: www.linkedin.com/in/brian-almaguer
