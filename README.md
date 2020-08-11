@@ -32,6 +32,6 @@
 
 ---
 
-<img align="left" alt="BalmaBrian's Github Stats" src"https://github-readme-stats.codestackr.vercel.app/api?username=BalmaBrian&show_icons=true&hide_border=true" />
+[![BalmaBrian's github stats](https://github-readme-stats.vercel.app/api?username=BalmaBrian)](https://github.com/BalmaBrian/github-readme-stats)
 
 [linked in]: www.linkedin.com/in/brian-almaguer
