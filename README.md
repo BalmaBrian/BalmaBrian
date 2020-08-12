@@ -16,6 +16,10 @@
 
 [<img align="left" alt="www.linkedin.com/in/brian-almaguer" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linked in]
 
+### :zap: Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 <br />
 
 ### Languages and Tools:
