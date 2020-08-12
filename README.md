@@ -25,6 +25,9 @@
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Linux Ubuntu" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/ubuntu-1-202420.png" />
+<img align="left" alt="Linode" width="26px" src="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1397190105/5e103d9c1b0c688a4a2813e76176e663.png" />
+<img align="left" alt="GCP" width="26px" src="https://www.cloudfoundry.org/wp-content/uploads/icon_gcp@2x.png" />
 
 <br />
 <br />
