@@ -39,9 +39,3 @@
 - [Test Post](https://dev.to/balmabrian/test-post-9c)
 <!-- BLOG-POST-LIST:END -->
 [linked in]: www.linkedin.com/in/brian-almaguer
-
-<br />
-
-### :zap: Recent Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
