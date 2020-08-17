@@ -24,8 +24,10 @@
 <img align="left" alt="Linux Ubuntu" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/ubuntu-1-202420.png" />
 <img align="left" alt="Linode" width="26px" src="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1397190105/5e103d9c1b0c688a4a2813e76176e663.png" />
 <img align="left" alt="GCP" width="26px" src="https://www.cloudfoundry.org/wp-content/uploads/icon_gcp@2x.png" />
+
 <br />
 <br />
+
 ### 📖 Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Test Post](https://dev.to/balmabrian/test-post-9c)
