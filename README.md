@@ -8,4 +8,5 @@
 
 ### 📖 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Using docker for Rendering Blender Projects ~ Starting Research](https://dev.to/balmabrian/using-docker-for-rendering-blender-projects-starting-research-5f5f)
 <!-- BLOG-POST-LIST:END -->
